@@ -1,4 +1,11 @@
-subgraph-environment-config (0.3) UNRELEASED; urgency=medium
+subgraph-environment-config (0.4.0-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * git-buildpackage
+
+ -- Alexsandr Kibal <ak@subgraph.com>  Wed, 26 Apr 2017 22:20:41 +0000
+
+subgraph-environment-config (0.3) unstable; urgency=medium
 
   * Fixed typo in filename 
 
